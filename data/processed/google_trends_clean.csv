@@ -1,0 +1,40 @@
+date,rank,topic,category,interest_score,Previous_Interest,Interest_Change,Growth %,Trend_Direction,Peak_Flag,Drop_Flag,Recovery_Flag,Lifecycle_Stage,region,related_queries,week_number,month,day,quarter
+2025-01-01,1.0,Grok 4,Crypto & Finance,85.0,85.0,0.0,0.0,Same,No,No,No,Growing,United Kingdom,"Grok 4, Solana Memecoins, trending",1.0,January,Wednesday,Q1
+2025-01-29,17.0,Grok 4,Crypto & Finance,89.0,85.0,4.0,0.047058823529411764,Up,No,No,No,Peak,Germany,"Grok 4, Ethereum Pectra, trending",5.0,January,Wednesday,Q1
+2025-02-23,6.0,Grok 4,Crypto & Finance,97.0,89.0,8.0,0.0898876404494382,Up,Peak,No,No,Emerging,United States,"Grok 4, Bitcoin ETF, trending",8.0,February,Sunday,Q1
+2025-03-01,11.0,Grok 4,Crypto & Finance,68.0,97.0,-29.0,-0.29896907216494845,Down,No,Drop,Recovery,Peak,India,"Grok 4, AI Agents, trending",9.0,March,Saturday,Q1
+2025-03-02,21.0,Grok 4,Crypto & Finance,98.0,68.0,30.0,0.4411764705882353,Up,Peak,No,No,Growing,Brazil,"Grok 4, AI Regulation Bill, trending",9.0,March,Sunday,Q1
+2025-03-03,18.0,Grok 4,Crypto & Finance,82.0,98.0,-16.0,-0.16326530612244897,Down,No,Drop,Recovery,Peak,South Korea,"Grok 4, ChatGPT 5, trending",10.0,March,Monday,Q1
+2025-03-20,10.0,Grok 4,Crypto & Finance,98.0,82.0,16.0,0.1951219512195122,Up,Peak,No,No,Peak,Germany,"Grok 4, Grok 4, trending",12.0,March,Thursday,Q1
+2025-03-25,7.0,Grok 4,Crypto & Finance,94.0,98.0,-4.0,-0.04081632653061224,Down,No,Drop,No,Growing,Worldwide,"Grok 4, Grok 4, trending",13.0,March,Tuesday,Q1
+2025-03-28,2.0,Grok 4,Crypto & Finance,71.0,94.0,-23.0,-0.24468085106382978,Down,No,Drop,Recovery,Peak,Brazil,"Grok 4, Grok 4, trending",13.0,March,Friday,Q1
+2025-03-28,8.0,Grok 4,Crypto & Finance,97.0,71.0,26.0,0.36619718309859156,Up,Peak,No,No,Growing,Germany,"Grok 4, Multimodal AI, trending",13.0,March,Friday,Q1
+2025-05-09,19.0,Grok 4,Crypto & Finance,74.0,97.0,-23.0,-0.23711340206185566,Down,No,Drop,No,Emerging,France,"Grok 4, Solana Memecoins, trending",19.0,May,Friday,Q2
+2025-05-15,22.0,Grok 4,Crypto & Finance,68.0,74.0,-6.0,-0.08108108108108109,Down,No,Drop,Recovery,Emerging,Worldwide,"Grok 4, US Midterm Elections, trending",20.0,May,Thursday,Q2
+2025-05-21,15.0,Grok 4,Crypto & Finance,69.0,68.0,1.0,0.014705882352941176,Up,No,No,No,Growing,Indonesia,"Grok 4, Claude 4, trending",21.0,May,Wednesday,Q2
+2025-05-23,24.0,Grok 4,Crypto & Finance,76.0,69.0,7.0,0.10144927536231885,Up,No,No,No,Growing,Indonesia,"Grok 4, Quantum Computing, trending",21.0,May,Friday,Q2
+2025-06-02,7.0,Grok 4,Crypto & Finance,83.0,76.0,7.0,0.09210526315789473,Up,Peak,No,No,Growing,United States,"Grok 4, Ethereum Pectra, trending",23.0,June,Monday,Q2
+2025-06-19,21.0,Grok 4,Crypto & Finance,77.0,83.0,-6.0,-0.07228915662650602,Down,No,Drop,Recovery,Growing,Indonesia,"Grok 4, AI Regulation Bill, trending",25.0,June,Thursday,Q2
+2025-06-28,20.0,Grok 4,Crypto & Finance,88.0,77.0,11.0,0.14285714285714285,Up,Peak,No,No,Growing,United Kingdom,"Grok 4, ChatGPT 5, trending",26.0,June,Saturday,Q2
+2025-07-15,1.0,Grok 4,Crypto & Finance,87.0,88.0,-1.0,-0.011363636363636364,Down,No,Drop,No,Growing,United Kingdom,"Grok 4, Quantum Computing, trending",29.0,July,Tuesday,Q3
+2025-08-03,9.0,Grok 4,Crypto & Finance,79.0,87.0,-8.0,-0.09195402298850575,Down,No,Drop,Recovery,Peak,Brazil,"Grok 4, Tesla Robotaxi, trending",31.0,August,Sunday,Q3
+2025-11-08,6.0,Grok 4,Crypto & Finance,94.0,79.0,15.0,0.189873417721519,Up,Peak,No,No,Emerging,India,"Grok 4, Quantum Computing, trending",45.0,November,Saturday,Q4
+2025-11-15,22.0,Grok 4,Crypto & Finance,68.0,94.0,-26.0,-0.2765957446808511,Down,No,Drop,Recovery,Peak,United Kingdom,"Grok 4, Quantum Computing, trending",46.0,November,Saturday,Q4
+2025-11-25,14.0,Grok 4,Crypto & Finance,92.0,68.0,24.0,0.35294117647058826,Up,Peak,No,No,Growing,United States,"Grok 4, Ethereum Pectra, trending",48.0,November,Tuesday,Q4
+2025-11-30,15.0,Grok 4,Crypto & Finance,79.0,92.0,-13.0,-0.14130434782608695,Down,No,Drop,No,Growing,France,"Grok 4, Taylor Swift, trending",48.0,November,Sunday,Q4
+2025-12-12,13.0,Grok 4,Crypto & Finance,74.0,79.0,-5.0,-0.06329113924050633,Down,No,Drop,Recovery,Growing,South Korea,"Grok 4, AI Agents, trending",50.0,December,Friday,Q4
+2025-12-29,1.0,Grok 4,Crypto & Finance,76.0,74.0,2.0,0.02702702702702703,Up,Peak,No,No,Emerging,France,"Grok 4, AI Agents, trending",1.0,December,Monday,Q4
+2025-12-29,20.0,Grok 4,Crypto & Finance,68.0,76.0,-8.0,-0.10526315789473684,Down,No,Drop,Recovery,Peak,France,"Grok 4, Champions League, trending",1.0,December,Monday,Q4
+2026-01-28,15.0,Grok 4,Crypto & Finance,96.0,68.0,28.0,0.4117647058823529,Up,Peak,No,No,Growing,Worldwide,"Grok 4, India Budget 2026, trending",5.0,January,Wednesday,Q1
+2026-02-03,2.0,Grok 4,Crypto & Finance,87.0,96.0,-9.0,-0.09375,Down,No,Drop,No,Growing,Indonesia,"Grok 4, IPL 2026, trending",6.0,February,Tuesday,Q1
+2026-02-05,12.0,Grok 4,Crypto & Finance,75.0,87.0,-12.0,-0.13793103448275862,Down,No,Drop,Recovery,Peak,South Korea,"Grok 4, India Budget 2026, trending",6.0,February,Thursday,Q1
+2026-02-13,15.0,Grok 4,Crypto & Finance,92.0,75.0,17.0,0.22666666666666666,Up,Peak,No,No,Peak,Germany,"Grok 4, Grok 4, trending",7.0,February,Friday,Q1
+2026-02-24,11.0,Grok 4,Crypto & Finance,91.0,92.0,-1.0,-0.010869565217391304,Down,No,Drop,No,Growing,Germany,"Grok 4, Bitcoin ETF, trending",9.0,February,Tuesday,Q1
+2026-03-10,5.0,Grok 4,Crypto & Finance,89.0,91.0,-2.0,-0.02197802197802198,Down,No,Drop,Recovery,Peak,Japan,"Grok 4, Champions League, trending",11.0,March,Tuesday,Q1
+2026-03-18,8.0,Grok 4,Crypto & Finance,97.0,89.0,8.0,0.0898876404494382,Up,Peak,No,No,Growing,United States,"Grok 4, Trump Crypto Policy, trending",12.0,March,Wednesday,Q1
+2026-03-21,14.0,Grok 4,Crypto & Finance,82.0,97.0,-15.0,-0.15463917525773196,Down,No,Drop,No,Growing,Germany,"Grok 4, Quantum Computing, trending",12.0,March,Saturday,Q1
+2026-03-22,22.0,Grok 4,Crypto & Finance,77.0,82.0,-5.0,-0.06097560975609756,Down,No,Drop,Recovery,Growing,South Korea,"Grok 4, India Budget 2026, trending",12.0,March,Sunday,Q1
+2026-03-25,22.0,Grok 4,Crypto & Finance,89.0,77.0,12.0,0.15584415584415584,Up,No,No,No,Peak,Worldwide,"Grok 4, Solana Memecoins, trending",13.0,March,Wednesday,Q1
+2026-03-28,6.0,Grok 4,Crypto & Finance,99.0,89.0,10.0,0.11235955056179775,Up,Peak,No,No,Peak,Worldwide,"Grok 4, US Midterm Elections, trending",13.0,March,Saturday,Q1
+2026-04-03,17.0,Grok 4,Crypto & Finance,99.0,99.0,0.0,0.0,Same,Peak,No,No,Growing,Indonesia,"Grok 4, Solana Memecoins, trending",14.0,April,Friday,Q2
+2026-04-04,18.0,Grok 4,Crypto & Finance,81.0,99.0,-18.0,-0.18181818181818182,Down,No,Drop,No,Declining,France,"Grok 4, Netflix New Season, trending",14.0,April,Saturday,Q2
